@@ -28,6 +28,7 @@ Coding combines my love of building things and solving puzzles. I picked up prog
 ```
 - SQL
 - Node / Express
+- Ruby On Rails
 - Python
 - C
 ```

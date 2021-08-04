@@ -33,12 +33,12 @@ Coding combines my love of building things and solving puzzles. I picked up prog
 - C
 ```
 
-### I'm Currently Improving My Skills In:
+### 📚 I'm Currently Learning More About:
 
 - GatsbyJS
 - Node / Express
 
-### I'm Working On:
+### 🛠 I'm Working On:
 
 - Word Jamble, a kids edutainment game about learning new words. A submission for the inaugural [Odin Game Jam](https://itch.io/jam/top-jam-1)
 - My personal portfolio site

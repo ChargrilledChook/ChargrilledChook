@@ -39,7 +39,7 @@ Coding combines my love of building things and solving puzzles. I picked up prog
 
 ### I'm Working On:
 
-- Word Jamble, a kids edutainment game about learning new words
+- Word Jamble, a kids edutainment game about learning new words. A submission for the inaugural [Odin Game Jam](https://itch.io/jam/top-jam-1)
 - My personal portfolio site
 
 ### Some of My Recent Projects

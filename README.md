@@ -1,3 +1,5 @@
+<!-- Possible additions - change skills to badges / shields -->
+
 ## G'day! 👋
 
 I'm a self taught developer based in the Greater Newcastle Region of NSW, Australia.
@@ -14,23 +16,13 @@ Coding combines my love of building things and solving puzzles. I picked up prog
 #### I'm Comfortable With:
 
 ```
-- Javascript
-- HTML
-- CSS
-- React
-- Ruby
-- Git
-- Testing frameworks (Jest, RSPEC etc)
+Javascript, HTML, CSS, React, Ruby, Git, Testing frameworks (Jest, RSPEC etc)
 ```
 
 #### I've Dabbled With:
 
 ```
-- SQL
-- Node / Express
-- Ruby On Rails
-- Python
-- C
+SQL, Node / Express, Ruby On Rails, Python, C
 ```
 
 ### 📚 I'm Currently Learning More About:

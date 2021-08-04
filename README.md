@@ -1,19 +1,17 @@
 ## G'day! 👋
 
-This doc WIP !
-
 I'm a self taught developer based in the Greater Newcastle Region of NSW, Australia.
 
-Coding combines my love of building things and solving puzzles.
+Coding combines my love of building things and solving puzzles. I picked up programming in 2019 while recovering from surgery; I quickly grew addicted and have been learning and creating new things ever since.
 
 ### Contact Me
 
-- E-mail: dylan at dylanwill.dev
-- Discord: ChargrilledChook#7159
+- 📨 E-mail: dylan at dylanwill.dev
+- 🖥 Discord: ChargrilledChook#7159
 
-### Tools and Technologies I've Used
+### Skills
 
-#### I'm Comfortable With
+#### I'm Comfortable With:
 
 ```
 - Javascript
@@ -25,7 +23,7 @@ Coding combines my love of building things and solving puzzles.
 - Testing frameworks (Jest, RSPEC etc)
 ```
 
-#### I've Dabbled With
+#### I've Dabbled With:
 
 ```
 - SQL
@@ -34,11 +32,21 @@ Coding combines my love of building things and solving puzzles.
 - C
 ```
 
+### I'm Currently Improving My Skills In:
+
+- GatsbyJS
+- Node / Express
+
+### I'm Working On:
+
+- Word Jamble, a kids edutainment game about learning new words
+- My personal portfolio site
+
 ### Some of My Recent Projects
 
 Check out the pins below to see some of my recent projects. Each pin has a live version of the site linked at the top of its' README.
 
-👇 👇 👇 👇
+👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇 👇
 
 <!--
 #### Word Jamble
